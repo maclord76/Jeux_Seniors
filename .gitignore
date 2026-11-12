@@ -1,0 +1,10 @@
+/dist/
+/.claude/
+**/__pycache__/
+*.py[cod]
+/audio/sons-mysteres/
+/img/monnaie/500.png
+/img/monnaie/1000.png
+/img/monnaie/2000.png
+/img/monnaie/5000.png
+/img/epoque/billets-en-euros.jpg
