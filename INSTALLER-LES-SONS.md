@@ -1,6 +1,6 @@
 # Installer « Le son mystère » en local
 
-La version GitHub Pages propose 23 jeux. Pour retrouver le 24ᵉ, utilisez une copie du projet sur votre ordinateur. Les extraits ne sont pas fournis dans le dépôt ([licence Mixkit](https://mixkit.co/license/modal/sfxFree/)).
+Les 24 jeux sont disponibles sur [GitHub Pages](https://maclord76.github.io/Jeux_Seniors/). Ce guide sert à activer « Le son mystère » dans une copie locale de la branche source. Les extraits Mixkit sont intégrés à la version jouable en ligne. [Licence Mixkit](https://mixkit.co/license/modal/sfxFree/)
 
 1. [Téléchargez le projet](https://github.com/maclord76/Jeux_Seniors/archive/refs/heads/main.zip) et décompressez-le.
 2. Ouvrez la page Mixkit de chaque son et utilisez le bouton de téléchargement près du titre anglais.

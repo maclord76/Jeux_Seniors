@@ -1,6 +1,6 @@
 # Jeux de mémoire pour seniors
 
-Compilation de 23 jeux de stimulation cognitive, en français, pensée pour les seniors : gros textes, fort contraste, aucune pression de temps, jamais de mise en échec. La progression de chaque joueur est enregistrée dans le navigateur.
+Compilation de 24 jeux de stimulation cognitive en français, pensée pour les seniors, avec de gros textes, un contraste élevé et des parties à jouer à son rythme. La progression de chaque joueur est enregistrée dans le navigateur.
 
 ## Utilisation
 
@@ -18,7 +18,7 @@ Compilation de 23 jeux de stimulation cognitive, en français, pensée pour les 
 | Mémoire visuelle | Jeu des paires, Objet manquant, Qu’est-ce qui a changé ?, La liste de courses, Trouver l'intrus, Puzzle |
 | Jeux de mots | Mots mêlés, Mots croisés, Mots fléchés, Mot mélangé, La tour des mots, Proverbe à compléter |
 | Logique et calcul | Sudoku, Suites logiques, Remettre dans l’ordre, Jeu de Nim, Mastermind, Rendre la monnaie |
-| Écoute et culture | Simon mélodie, Quiz souvenirs et culture, Ça existait déjà ?, Jeu des 7 familles, Qui se cache ? |
+| Écoute et culture | Simon mélodie, Le son mystère, Quiz souvenirs et culture, Ça existait déjà ?, Jeu des 7 familles, Qui se cache ? |
 
 Sélection inspirée de [Capretraite](https://www.capretraite.fr/blog/style-de-vie/seniors-7-types-de-jeux-pour-memoire-efficaces-et-gratuits-pour-stimuler-votre-cerveau/), de [France Alzheimer](https://www.francealzheimer.org/10-jeux-pour-stimuler-la-memoire/) et des principes du programme EDITH de Dynseo (« sans chronomètre ni mise en échec »).
 
@@ -145,7 +145,7 @@ Les deux jeux utilisent les étoiles, les niveaux et les sauvegardes habituels. 
 
 ## Le son mystère
 
-Le code du jeu est fourni. La version publique ne le charge pas, car les extraits Mixkit ne sont pas inclus. [Installer les 36 sons et activer le jeu en local](INSTALLER-LES-SONS.md).
+« Le son mystère » est jouable sur GitHub Pages, avec les sons intégrés à la version web. Pour jouer depuis une copie de la branche source, suivez le [guide d’installation locale des 36 sons](INSTALLER-LES-SONS.md).
 
 - **Le son mystère** (Écoute et culture) : trois sons familiers par partie, sans chronomètre. Le joueur lance lui-même l'écoute (rien ne démarre seul), puis choisit parmi de grands boutons (image + texte). Après chaque réponse, la bonne réponse et une courte phrase s'affichent. Après une bonne réponse, le jeu passe seul au son suivant au bout de 5 secondes (comme les autres jeux) ; après une erreur, il attend « Continuer ».
 - Réécouter reste possible sans limite, mais chaque réécoute avant de répondre retire 20 % des points de la manche (une bonne réponse en garde toujours au moins 40 %). Après la réponse, le résultat et l’anecdote remplacent le bouton de réécoute.
