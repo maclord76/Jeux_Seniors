@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jeux de mémoire</title>
+  <meta name="description" content="Jeux de stimulation de la mémoire pour seniors, avec suivi de progression.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌻</text></svg>">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="lien-evitement" href="#app">Aller au contenu</a>
+  <header class="entete">
+    <a class="logo" href="#/accueil"><span aria-hidden="true">🌻</span> <span class="logo-texte">Jeux de mémoire</span></a>
+    <h1 class="titre-entete" id="titre-entete" hidden></h1>
+    <nav class="navigation" aria-label="Menu principal">
+      <a href="#/accueil" data-route="accueil"><span aria-hidden="true">🏠</span> Accueil</a>
+      <a href="#/progres" data-route="progres"><span aria-hidden="true">📈</span> Mes progrès</a>
+      <a href="#/reglages" data-route="reglages"><span aria-hidden="true">⚙️</span> Réglages</a>
+    </nav>
+    <a class="profil-courant" href="#/profils" id="profil-courant" title="Changer de joueur"></a>
+  </header>
+
+  <div id="bandeau-stockage" class="bandeau" hidden>
+    La sauvegarde n'est pas disponible dans ce navigateur : vos progrès seront perdus en fermant la page.
+  </div>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="panneau texte-doux"><a href="https://github.com/maclord76/Jeux_Seniors/blob/main/CREDITS-SONS.md">Crédits des sons : Mixkit</a> · <a href="https://github.com/maclord76/Jeux_Seniors/blob/main/CREDITS-PHOTOS.md">Crédits des photos</a></footer>
+  <script src="app-c8a72aa60dca.js"></script>
+</body>
+</html>
