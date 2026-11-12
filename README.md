@@ -145,7 +145,7 @@ Les deux jeux utilisent les étoiles, les niveaux et les sauvegardes habituels. 
 
 ## Le son mystère
 
-Le code du jeu est fourni. La version publique ne le charge pas, car les extraits Mixkit ne sont pas inclus. Voir [les crédits des sons](CREDITS-SONS.md).
+Le code du jeu est fourni. La version publique ne le charge pas, car les extraits Mixkit ne sont pas inclus. [Installer les 36 sons et activer le jeu en local](INSTALLER-LES-SONS.md).
 
 - **Le son mystère** (Écoute et culture) : trois sons familiers par partie, sans chronomètre. Le joueur lance lui-même l'écoute (rien ne démarre seul), puis choisit parmi de grands boutons (image + texte). Après chaque réponse, la bonne réponse et une courte phrase s'affichent. Après une bonne réponse, le jeu passe seul au son suivant au bout de 5 secondes (comme les autres jeux) ; après une erreur, il attend « Continuer ».
 - Réécouter reste possible sans limite, mais chaque réécoute avant de répondre retire 20 % des points de la manche (une bonne réponse en garde toujours au moins 40 %). Après la réponse, le résultat et l’anecdote remplacent le bouton de réécoute.
