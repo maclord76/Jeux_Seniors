@@ -10,7 +10,7 @@ Tous les extraits sont diffusés sous la **Mixkit Sound Effects Free License** (
 - le texte de la licence ne prévoit pas d’obligation de citer l’auteur ; les pages Mixkit n’indiquent pas l’auteur de chaque son ;
 - **interdit** : redistribuer les sons seuls, en banque de sons, dans un outil ou un modèle, ou avec des fichiers sources ; se les attribuer.
 
-Les extraits sont intégrés à la version jouable sur GitHub Pages. La branche principale contient le code source et le [guide d’installation locale](INSTALLER-LES-SONS.md).
+Les extraits sont intégrés à la version jouable sur GitHub Pages. La branche principale contient aussi les 36 MP3 préparés et le [guide pour retrouver les originaux](INSTALLER-LES-SONS.md).
 
 ## Préparation
 

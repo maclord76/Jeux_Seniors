@@ -1,20 +1,8 @@
-# Installer « Le son mystère » en local
+# Retrouver les 36 sons originaux sur Mixkit
 
-Les 24 jeux sont disponibles sur [GitHub Pages](https://maclord76.github.io/Jeux_Seniors/). Ce guide sert à activer « Le son mystère » dans une copie locale de la branche source. Les extraits Mixkit sont intégrés à la version jouable en ligne. [Licence Mixkit](https://mixkit.co/license/modal/sfxFree/)
+Les MP3 préparés sont fournis dans [audio/sons-mysteres](audio/sons-mysteres). Pour jouer en local, ouvrez `index.html` dans votre navigateur.
 
-1. [Téléchargez le projet](https://github.com/maclord76/Jeux_Seniors/archive/refs/heads/main.zip) et décompressez-le.
-2. Ouvrez la page Mixkit de chaque son et utilisez le bouton de téléchargement près du titre anglais.
-3. Créez le sous-dossier `sons-mysteres` dans `audio` et placez-y les MP3. Renommez chaque fichier comme indiqué dans le tableau. Si le téléchargement est dans un autre format, convertissez-le en MP3 avant de le renommer.
-4. Dans `index.html`, ajoutez les deux lignes suivantes juste avant le commentaire `<!-- Écrans -->`, puis enregistrez.
-
-```html
-<script src="js/data/sons-mysteres.js"></script>
-<script src="js/games/son-mystere.js"></script>
-```
-
-5. Ouvrez `index.html` dans votre navigateur. « Le son mystère » apparaît dans « Écoute et culture ».
-
-Les sons d’origine peuvent être plus longs que les extraits préparés pour le jeu. Les [crédits et durées](CREDITS-SONS.md#sources) donnent les repères de découpe. Gardez les MP3 dans votre copie locale.
+Le tableau donne les titres et pages Mixkit des sons d’origine. Voir les [crédits et durées de découpe](CREDITS-SONS.md#sources).
 
 | Nom du fichier | Titre sur Mixkit | Lien |
 | --- | --- | --- |

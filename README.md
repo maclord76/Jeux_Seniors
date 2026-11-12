@@ -145,7 +145,7 @@ Les deux jeux utilisent les étoiles, les niveaux et les sauvegardes habituels. 
 
 ## Le son mystère
 
-« Le son mystère » est jouable sur GitHub Pages, avec les sons intégrés à la version web. Pour jouer depuis une copie de la branche source, suivez le [guide d’installation locale des 36 sons](INSTALLER-LES-SONS.md).
+« Le son mystère » est jouable sur GitHub Pages, avec les sons intégrés à la version web. Les 36 extraits préparés sont également disponibles dans le dossier [audio/sons-mysteres](audio/sons-mysteres).
 
 - **Le son mystère** (Écoute et culture) : trois sons familiers par partie, sans chronomètre. Le joueur lance lui-même l'écoute (rien ne démarre seul), puis choisit parmi de grands boutons (image + texte). Après chaque réponse, la bonne réponse et une courte phrase s'affichent. Après une bonne réponse, le jeu passe seul au son suivant au bout de 5 secondes (comme les autres jeux) ; après une erreur, il attend « Continuer ».
 - Réécouter reste possible sans limite, mais chaque réécoute avant de répondre retire 20 % des points de la manche (une bonne réponse en garde toujours au moins 40 %). Après la réponse, le résultat et l’anecdote remplacent le bouton de réécoute.
